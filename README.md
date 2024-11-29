@@ -7,8 +7,8 @@ Hi there! I thrive on building **scalable web applications**, automating workflo
 ---
 
 ## 🚀 About Me   
-- 🎓 Graduate in **Informatics Engineering**, honored as **cum laude**.  
-- 🔭 Building projects with **Laravel**, **MYSQL**, and **Machine Learning**.  
+- 🎓 Graduate in **Informatics Engineering**.  
+- 🔭 Building projects with **Laravel**, **MYSQL**, **Java** and **Machine Learning**.  
 - 🌱 Learning **English** to expand my career globally.
 
 ---
@@ -22,9 +22,7 @@ Hi there! I thrive on building **scalable web applications**, automating workflo
 
 ---
 
-## 🔥 Featured Projects  
-### 🛒 [E-Shop](https://github.com/SaifulAR/E-Shop)  
-A modern e-commerce platform built with **Laravel**, integrated with **Docker** and **PostgreSQL** for seamless deployment and scalability.  
+## 🔥 Featured Projects   
 
 ### 🌱 [Garbage App](https://github.com/SAR09/Garbage-app)  
 A machine learning-powered Android application to classify different types of waste, promoting sustainability and waste management awareness using **Convolutional Neural Networks (CNN)**.  
