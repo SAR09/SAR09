@@ -35,8 +35,7 @@ A basic to-do list application developed in **Java**, showcasing clean code and 
 
 ---
 
-## 📊 GitHub Stats  
-![Saiful A.R's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaifulAR&show_icons=true&theme=tokyonight)  
+## 📊 GitHub Stats   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaifulAR&layout=compact&theme=tokyonight)  
 
 ---
